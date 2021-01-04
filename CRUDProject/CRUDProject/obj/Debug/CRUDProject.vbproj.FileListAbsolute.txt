@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe.config
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\bin\Debug\CRUDProject.pdb
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\bin\Debug\CRUDProject.xml
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.vbprojAssemblyReference.cache
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Form1.resources
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Resources.resources
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.vbproj.GenerateResource.cache
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.vbproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.exe
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.xml
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.pdb
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Form2.resources
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Form3.resources
+C:\Users\Home\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Form4.resources
